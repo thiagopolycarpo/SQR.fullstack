@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQR.BackEnd", "SQR.BackEnd.csproj", "{BA793C2C-D837-4B47-89E6-F628834EAB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA793C2C-D837-4B47-89E6-F628834EAB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA793C2C-D837-4B47-89E6-F628834EAB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA793C2C-D837-4B47-89E6-F628834EAB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA793C2C-D837-4B47-89E6-F628834EAB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480EA4A1-6BFD-4D75-9CF8-7F0138DA3F1C}
+	EndGlobalSection
+EndGlobal
