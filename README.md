@@ -2,7 +2,7 @@
 
 ## Pré-requisitos
 - .NET 6.0 SDK
-- SQL Server (instância LAPTOP-UTH4Q39O\SQLEXPRESS)
+- SQL Server (SQLEXPRESS)
 - Visual Studio 2022 (opcional, para desenvolvimento e testes)
 
 ## Configuração do Banco
@@ -44,11 +44,3 @@
 ## Testes Unitários
 1. Abra `SQR.Tests` no Visual Studio.
 2. Execute os testes no Test Explorer (cobrem `SetProduction` válido/inválido).
-
-## Notas
-- Após dois anos usando VB.NET, consultei Grok para refrescar C# (e.g., eventos Windows Forms, async/await). Todas as soluções foram adaptadas e testadas por mim.
-- O feedback da entrevista destacou que a estruturação precisava de melhorias. Reorganizei o projeto com serviços, repositórios, e view models, além de adicionar testes unitários, para maior modularidade e alinhamento com Clean Architecture.
-- Estou estudando práticas como .NET MAUI e CI/CD para projetos futuros.
-
-## Contato
-Para dúvidas ou esclarecimentos, estou à disposição para explicar o código ou realizar modificações.
